@@ -11,3 +11,7 @@
 - [Parallax Scroll Effect](https://codesandbox.io/embed/heuristic-golick-lkzdz?fontsize=14)
 
 <img src="https://i.imgur.com/VGpJvMd.gif" width="400" />
+
+- [Stroke Effect](https://codesandbox.io/embed/angry-mountain-1t7kr?fontsize=14)
+
+<img src="https://i.imgur.com/0xI68kN.gif" width="400" />
